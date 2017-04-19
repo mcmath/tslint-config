@@ -1,6 +1,6 @@
 {
   "name": "@mcmath/tslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TSLint configuration for TypeScript projects",
   "main": "index.json",
   "keywords": [
