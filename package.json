@@ -1,0 +1,38 @@
+{
+  "name": "@mcmath/tslint-config",
+  "version": "0.0.0",
+  "description": "TSLint configuration for TypeScript projects",
+  "main": "index.json",
+  "keywords": [
+    "tslint",
+    "linter",
+    "config",
+    "ts",
+    "typescript"
+  ],
+  "scripts": {
+    "test": "jsonlint index.json -q"
+  },
+  "engines": {
+    "node": ">=4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Akim McMath <akim.elijah.mcmath@gmail.com>",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmath/tslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mcmath/tslint-config/issues"
+  },
+  "homepage": "https://github.com/mcmath/tslint-config#readme",
+  "peerDependencies": {
+    "tslint": "5"
+  },
+  "devDependencies": {
+    "jsonlint": "^1.6.2"
+  }
+}
