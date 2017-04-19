@@ -20,7 +20,7 @@
     "access": "public"
   },
   "author": "Akim McMath <akim.elijah.mcmath@gmail.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mcmath/tslint-config.git"
