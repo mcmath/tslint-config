@@ -1,7 +1,6 @@
 # @mcmath/tslint-config
 
 [![Version][version-badge]][npm]
-[![License][license-badge]][license]
 [![Build][build-badge]][travis]
 
 TSLint configuration for TypeScript projects
@@ -36,10 +35,8 @@ New rules may be added or existing ones modified like so:
 ```
 
 [version-badge]: https://img.shields.io/npm/v/@mcmath/tslint-config.svg?style=flat-square
-[license-badge]: https://img.shields.io/npm/l/@mcmath/tslint-config.svg?style=flat-square
 [build-badge]: https://img.shields.io/travis/mcmath/tslint-config/master.svg?style=flat-square
 [npm]: https://www.npmjs.com/package/@mcmath/tslint-config
-[license]: LICENSE
 [travis]: https://travis-ci.org/mcmath/tslint-config
 [typescript]: https://www.typescriptlang.org/
 [tslint]: https://palantir.github.io/tslint/
