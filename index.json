@@ -1,5 +1,7 @@
 {
+  "extends": ["@mcmath/tslint-rules"],
   "rules": {
+    "enum-member-name": true,
     "align": [true, "parameters", "statements"],
     "class-name": true,
     "comment-format": [true, "check-space"],

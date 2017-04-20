@@ -30,9 +30,13 @@
   },
   "homepage": "https://github.com/mcmath/tslint-config#readme",
   "peerDependencies": {
-    "tslint": "5"
+    "tslint": "5",
+    "typescript": "2"
   },
   "devDependencies": {
     "jsonlint": "^1.6.2"
+  },
+  "dependencies": {
+    "@mcmath/tslint-rules": "^1.0.0"
   }
 }
